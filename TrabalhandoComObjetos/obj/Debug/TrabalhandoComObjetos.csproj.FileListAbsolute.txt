@@ -1,0 +1,6 @@
+c:\users\ftota\documents\visual studio 2012\Projects\TrabalhandoComObjetos\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.exe.config
+c:\users\ftota\documents\visual studio 2012\Projects\TrabalhandoComObjetos\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.exe
+c:\users\ftota\documents\visual studio 2012\Projects\TrabalhandoComObjetos\TrabalhandoComObjetos\bin\Debug\TrabalhandoComObjetos.pdb
+c:\users\ftota\documents\visual studio 2012\Projects\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.csprojResolveAssemblyReference.cache
+c:\users\ftota\documents\visual studio 2012\Projects\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.exe
+c:\users\ftota\documents\visual studio 2012\Projects\TrabalhandoComObjetos\TrabalhandoComObjetos\obj\Debug\TrabalhandoComObjetos.pdb
